@@ -1,0 +1,60 @@
+.facebook h1{
+    font-size: 3em;
+    color: rgb(14, 14, 90)
+}
+.facebook p{
+    width: 40%;
+    font-size: 22px;
+    margin-top: -3%;
+   
+}
+.facebook{
+    margin-left: 70px;
+    margin-top: 200px;
+}
+.login{
+    width: 250px;
+    height: 220px;
+    padding: 10px;
+    background-color:white;
+    box-shadow: 1px 1px 5px 2px  gray;
+    float: right;
+    margin-top: -180px;
+    margin-right: 100px;
+}
+.login input{
+    margin: 4px;
+    padding: 8px;
+}
+.login button{
+    font-size: 14px;
+    margin-left: 1%;
+    width: 245px;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: rgb(14, 14, 90);
+    font-weight: bold;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    border: none;
+}
+.login a{
+    text-decoration: none;
+    text-align: center;
+    padding: 60px;
+    font-size: 15px;
+    
+}
+#ac{
+    font-size: 12px;
+    width: 140px;
+    padding: 9px;
+    margin-left: 50px;
+    background-color: rgb(71, 114, 8);
+    border: none;
+    cursor: pointer;
+}
+#ac:hover{
+    border: 1px solid black;
+}
